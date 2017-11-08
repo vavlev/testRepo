@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "Model.h"
 
 @interface ViewController ()
 
@@ -16,6 +17,7 @@
 
 - (void)viewDidLoad {
      [super viewDidLoad];
+    //a das dsa
     // Do any additional setup after loading the view, typically from a nib.
 }
 

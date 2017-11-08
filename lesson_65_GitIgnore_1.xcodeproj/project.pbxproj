@@ -13,6 +13,7 @@
 		E79F09061FB3740400C42FAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E79F09051FB3740400C42FAC /* Assets.xcassets */; };
 		E79F09091FB3740400C42FAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E79F09071FB3740400C42FAC /* LaunchScreen.storyboard */; };
 		E79F090C1FB3740400C42FAC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E79F090B1FB3740400C42FAC /* main.m */; };
+		E7B727F11FB3872E0073A5D6 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = E7B727F01FB3872E0073A5D6 /* Model.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		E79F09081FB3740400C42FAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E79F090A1FB3740400C42FAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E79F090B1FB3740400C42FAC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E7B727EF1FB3872E0073A5D6 /* Model.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		E7B727F01FB3872E0073A5D6 /* Model.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +63,8 @@
 			children = (
 				E79F08FC1FB3740400C42FAC /* AppDelegate.h */,
 				E79F08FD1FB3740400C42FAC /* AppDelegate.m */,
+				E7B727EF1FB3872E0073A5D6 /* Model.h */,
+				E7B727F01FB3872E0073A5D6 /* Model.m */,
 				E79F08FF1FB3740400C42FAC /* ViewController.h */,
 				E79F09001FB3740400C42FAC /* ViewController.m */,
 				E79F09021FB3740400C42FAC /* Main.storyboard */,
@@ -145,6 +150,7 @@
 				E79F09011FB3740400C42FAC /* ViewController.m in Sources */,
 				E79F090C1FB3740400C42FAC /* main.m in Sources */,
 				E79F08FE1FB3740400C42FAC /* AppDelegate.m in Sources */,
+				E7B727F11FB3872E0073A5D6 /* Model.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
