@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "Model.h"
 
 @interface ViewController ()
 
@@ -17,12 +18,8 @@
 - (void)viewDidLoad {
      [super viewDidLoad];
     NSLog(@"I am work in branch test");
-}
-
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    //a das dsa
+    // Do any additional setup after loading the view, typically from a nib.
 }
 
 
