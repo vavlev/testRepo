@@ -14,6 +14,7 @@
 		E79F09091FB3740400C42FAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E79F09071FB3740400C42FAC /* LaunchScreen.storyboard */; };
 		E79F090C1FB3740400C42FAC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E79F090B1FB3740400C42FAC /* main.m */; };
 		E7B727EB1FB3846F0073A5D6 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = E7B727EA1FB3846F0073A5D6 /* ViewController2.m */; };
+		E7B727EE1FB3852F0073A5D6 /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = E7B727ED1FB3852F0073A5D6 /* ViewController3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		E79F090B1FB3740400C42FAC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E7B727E91FB3846F0073A5D6 /* ViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
 		E7B727EA1FB3846F0073A5D6 /* ViewController2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		E7B727EC1FB3852F0073A5D6 /* ViewController3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController3.h; sourceTree = "<group>"; };
+		E7B727ED1FB3852F0073A5D6 /* ViewController3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				E79F09001FB3740400C42FAC /* ViewController.m */,
 				E7B727E91FB3846F0073A5D6 /* ViewController2.h */,
 				E7B727EA1FB3846F0073A5D6 /* ViewController2.m */,
+				E7B727EC1FB3852F0073A5D6 /* ViewController3.h */,
+				E7B727ED1FB3852F0073A5D6 /* ViewController3.m */,
 				E79F09021FB3740400C42FAC /* Main.storyboard */,
 				E79F09051FB3740400C42FAC /* Assets.xcassets */,
 				E79F09071FB3740400C42FAC /* LaunchScreen.storyboard */,
@@ -151,6 +156,7 @@
 				E7B727EB1FB3846F0073A5D6 /* ViewController2.m in Sources */,
 				E79F090C1FB3740400C42FAC /* main.m in Sources */,
 				E79F08FE1FB3740400C42FAC /* AppDelegate.m in Sources */,
+				E7B727EE1FB3852F0073A5D6 /* ViewController3.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
