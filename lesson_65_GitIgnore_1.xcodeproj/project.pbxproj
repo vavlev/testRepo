@@ -16,6 +16,7 @@
 		E7B727EB1FB3846F0073A5D6 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = E7B727EA1FB3846F0073A5D6 /* ViewController2.m */; };
 		E7B727EE1FB3852F0073A5D6 /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = E7B727ED1FB3852F0073A5D6 /* ViewController3.m */; };
 		E7B727F11FB3872E0073A5D6 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = E7B727F01FB3872E0073A5D6 /* Model.m */; };
+		E7B727F41FB38A470073A5D6 /* ViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = E7B727F31FB38A470073A5D6 /* ViewController4.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,8 @@
 		E7B727ED1FB3852F0073A5D6 /* ViewController3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController3.m; sourceTree = "<group>"; };
 		E7B727EF1FB3872E0073A5D6 /* Model.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
 		E7B727F01FB3872E0073A5D6 /* Model.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
+		E7B727F21FB38A470073A5D6 /* ViewController4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController4.h; sourceTree = "<group>"; };
+		E7B727F31FB38A470073A5D6 /* ViewController4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController4.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,8 @@
 				E7B727EA1FB3846F0073A5D6 /* ViewController2.m */,
 				E7B727EC1FB3852F0073A5D6 /* ViewController3.h */,
 				E7B727ED1FB3852F0073A5D6 /* ViewController3.m */,
+				E7B727F21FB38A470073A5D6 /* ViewController4.h */,
+				E7B727F31FB38A470073A5D6 /* ViewController4.m */,
 				E79F09021FB3740400C42FAC /* Main.storyboard */,
 				E79F09051FB3740400C42FAC /* Assets.xcassets */,
 				E79F09071FB3740400C42FAC /* LaunchScreen.storyboard */,
@@ -162,6 +167,7 @@
 				E79F090C1FB3740400C42FAC /* main.m in Sources */,
 				E79F08FE1FB3740400C42FAC /* AppDelegate.m in Sources */,
 				E7B727EE1FB3852F0073A5D6 /* ViewController3.m in Sources */,
+				E7B727F41FB38A470073A5D6 /* ViewController4.m in Sources */,
 				E7B727F11FB3872E0073A5D6 /* Model.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
